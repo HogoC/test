@@ -3,6 +3,7 @@
 void input(int *p, int N);
 void output(int *p, int N);
 //
+//push의 가능여부를위해 로컬저장소에서 수정
 int main()
 {
 	int M, N, k;
